@@ -2,6 +2,11 @@
 
 ## Getting started
 
+### To handle initial setup
+
+```
+npm run setup
+```
 
 ### To rebuild the plugin
 
